@@ -1,0 +1,7 @@
+<Profile>
+    <Tools>
+        <Tool Timeout="5" Filename="foo"></Tool>
+        <Tool Timeout="3" Filename="foo"></Tool>
+        <Tool Timeout="1" Filename="foo"></Tool>
+    </Tools>
+</Profile>
